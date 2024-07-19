@@ -71,7 +71,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/peterh/liner v1.2.2
 	github.com/protolambda/bls12-381-util v0.1.0
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/ryanuber/columnize v2.1.2+incompatible
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/status-im/keycard-go v0.3.2
@@ -85,7 +85,7 @@ require (
 	golang.org/x/crypto v0.21.0
 	golang.org/x/exp v0.0.0-20240222234643-814bf88cf225
 	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.18.0
+	golang.org/x/sys v0.20.0
 	golang.org/x/text v0.14.0
 	golang.org/x/time v0.5.0
 	golang.org/x/tools v0.19.0
@@ -168,7 +168,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.19.0
 	go.uber.org/goleak v1.2.1
 	golang.org/x/mod v0.16.0 // indirect
-	golang.org/x/net v0.22.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	google.golang.org/grpc v1.58.3
 	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
@@ -216,7 +216,7 @@ require (
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-multierror v1.1.0 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.5 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
